@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8RXBB9ZMFD.jaywithme.sudoku"],
+        "components": [
+          {
+            "/": "/sudoku/open.html",
+            "?": { "c": "?*" },
+            "comment": "Shared-code links only. Every other path on this domain stays a web page."
+          }
+        ]
+      }
+    ]
+  }
+}
